@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|c:\\users\\saket kr jha\\desktop\\project\\authecapi\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|solutionrelative:extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|c:\\users\\saket kr jha\\desktop\\project\\authecapi\\controllers\\identityuserendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|solutionrelative:controllers\\identityuserendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|c:\\users\\saket kr jha\\desktop\\project\\authecapi\\controllers\\accountendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|solutionrelative:controllers\\accountendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|c:\\users\\saket kr jha\\desktop\\project\\authecapi\\extensions\\appconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|solutionrelative:extensions\\appconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|c:\\users\\saket kr jha\\desktop\\project\\authecapi\\extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|solutionrelative:extensions\\efcoreextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|c:\\users\\saket kr jha\\desktop\\project\\authecapi\\controllers\\authorizationdemoendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|solutionrelative:controllers\\authorizationdemoendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|c:\\users\\saket kr jha\\desktop\\project\\authecapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|c:\\users\\saket kr jha\\desktop\\project\\authecapi\\userdetails.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|solutionrelative:userdetails.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|c:\\users\\saket kr jha\\desktop\\project\\authecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|c:\\users\\saket kr jha\\desktop\\project\\authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|c:\\users\\saket kr jha\\desktop\\project\\authecapi\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|solutionrelative:extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|c:\\users\\saket kr jha\\desktop\\project\\authecapi\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|solutionrelative:models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|c:\\users\\saket kr jha\\desktop\\project\\authecapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E0D528-F3DF-4100-B049-5F351441FD1F}|AuthECAPI.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Controllers\\AccountEndpoints.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountEndpoints.cs",
+              "ToolTip": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Controllers\\AccountEndpoints.cs",
+              "RelativeToolTip": "Controllers\\AccountEndpoints.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T05:42:35.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EFCoreExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\EFCoreExtensions.cs",
+              "ToolTip": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Extensions\\EFCoreExtensions.cs",
+              "RelativeToolTip": "Extensions\\EFCoreExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T14:50:39.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppConfigExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\AppConfigExtensions.cs",
+              "ToolTip": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Extensions\\AppConfigExtensions.cs",
+              "RelativeToolTip": "Extensions\\AppConfigExtensions.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:51:08.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdentityExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\IdentityExtensions.cs",
+              "ToolTip": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Extensions\\IdentityExtensions.cs",
+              "RelativeToolTip": "Extensions\\IdentityExtensions.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:06:52.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentityUserEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "RelativeDocumentMoniker": "Controllers\\IdentityUserEndpoints.cs",
+              "ToolTip": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "RelativeToolTip": "Controllers\\IdentityUserEndpoints.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAmwE0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:05:15.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorizationDemoEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Controllers\\AuthorizationDemoEndpoints.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorizationDemoEndpoints.cs",
+              "ToolTip": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Controllers\\AuthorizationDemoEndpoints.cs",
+              "RelativeToolTip": "Controllers\\AuthorizationDemoEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:03:12.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:28:14.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "userdetails.json",
+              "DocumentMoniker": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\userdetails.json",
+              "RelativeDocumentMoniker": "userdetails.json",
+              "ToolTip": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\userdetails.json",
+              "RelativeToolTip": "userdetails.json",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T10:38:37.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T08:53:12.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T07:36:15.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SwaggerExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\SwaggerExtensions.cs",
+              "ToolTip": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Extensions\\SwaggerExtensions.cs",
+              "RelativeToolTip": "Extensions\\SwaggerExtensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:44:55.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Models\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Models\\AppSettings.cs",
+              "RelativeToolTip": "Models\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:51:33.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Saket Kr Jha\\Desktop\\Project\\AuthECAPI\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T08:06:54.397Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
