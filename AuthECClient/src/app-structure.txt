@@ -1,0 +1,12 @@
+|__app
+    |__ User
+    |    |__user.comnponent.ts|.html
+    |    |__login (folder)
+    |    |__registration (folder)
+    |
+    |__ Shared
+        |__Pipes
+        |   |__ first-key.pipe.ts
+        |
+        |__ Services
+            |__auth.service.ts
